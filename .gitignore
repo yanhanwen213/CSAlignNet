@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pth
+*.pt
+*.ckpt
+log/
+logs/
+results/
+*.log
+attribution_*.json
+*_failures_*.txt
+figures/*.png
+.DS_Store
+.idea/
+.vscode/
+fv_env/

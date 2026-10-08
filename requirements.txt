@@ -1,0 +1,10 @@
+torch>=2.0
+torchvision>=0.15
+numpy
+scipy
+scikit-image
+tqdm
+matplotlib
+pillow
+opencv-python
+timm  # only needed for --backbone xception in Shaheed scripts
